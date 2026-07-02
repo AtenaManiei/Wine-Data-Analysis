@@ -57,6 +57,19 @@ The dataset contains chemical characteristics of different wine classes.
 
 ---
 
+## Results
+
+### Correlation Matrix
+
+![Correlation Matrix](images/images/Correlation_Matrix.png)
+
+### Alcohol vs Target
+
+![Boxplot](images/images/Boxplot%20Alcohol%20vs%20Target.png)
+
+### Scatterplots
+
+![Scatterplots](images/images/Scatterplots.png)
 ## Files
 
 - `Wine_Data_Analysis.ipynb` : Complete notebook containing the analysis and visualizations.
